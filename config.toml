@@ -1,5 +1,5 @@
 baseurl = "https://coolcats.cloud"
-title = "The Cool Cats Blog"
+title = "The Cool Cats"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,10 +14,10 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "The Cool Cats Blog"
+  SEOTitle = "The Cool Cats"
   description = "The hardest working band in the world"
   keyword = "blog, music, kids"
-  slogan = "Rocking and Rolling"
+  slogan = ""
 
   image_404 = "img/404-bg.jpg"
   title_404 = "你来到了没有知识的荒原 :("
@@ -104,12 +104,6 @@ home = ["HTML", "RSS", "Algolia"]
   title = "unsplash"
   href = "https://unsplash.com"
   
-  [[params.addtional_menus]]
-  title =  "ARCHIVE"
-  href =  "/archive/"
-  [[params.addtional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
