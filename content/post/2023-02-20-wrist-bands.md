@@ -1,5 +1,5 @@
 ---
-title: wrist bands
+title: wristbands
 date: 2023-03-03T01:01:00.000Z
 description: how to make wristbands
 ---
